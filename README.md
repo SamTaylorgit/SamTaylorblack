@@ -1,4 +1,4 @@
-# [BLACK ™](https://telegram.me/BDReborn)
+# [BLACK ™](https://telegram.me/GODILOVEYOUME2)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
