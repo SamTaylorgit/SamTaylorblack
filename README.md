@@ -1,4 +1,4 @@
-# [BDReborn](https://telegram.me/BDReborn)
+# [BLACK ™](https://telegram.me/BDReborn)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -20,8 +20,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/SamTaylorgit/SamTaylorblack.git
+cd SamTaylorblack
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh start
@@ -30,7 +30,7 @@ chmod +x beyond.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh start
+cd $HOME && git clone https://github.com/SamTaylorgit/SamTaylorblack.git && cd SamTaylorblack && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh start
 ```
 
 * * *
@@ -52,19 +52,19 @@ add your ID at line 101 in bot.lua and add your ID at line 2 in tools.lua, Then 
 More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
 
 # Special thanks to
-[@nero_dev](https://telegram.me/nero_dev)
+[@GODILOVEYOUME2](https://telegram.me/GODILOVEYOUME2)
 
-[@MrHalix](https://github.com/MrHalix)
+[@GODILOVEYOUME2](https://github.com/GODILOVEYOUME2)
 
-[@Vysheng](https://github.com/vysheng)
+[@GODILOVEYOUME2](https://github.com/GODILOVEYOUME2)
 
 * * *
 
 # Developers!
 
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
+](https://github.com/GODILOVEYOUME2) ([Telegram](https://telegram.me/SoLiD))
 
-[To0fan](https://github.com/To0fan) ([Telegram](https://telegram.me/To0fan))
+[SamTaylor](https://github.com/GODILOVEYOUME2) ([Telegram](https://telegram.me/To0fan))
 
 [MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
 
